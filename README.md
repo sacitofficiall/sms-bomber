@@ -1,2 +1,4 @@
-# sms-bomber
-sacitofficiall-smsbomber
+# Saco-sms
+Sacitofficiall-SMS BOMBER EGİTİM AMAÇLIDIR.
+
+
